@@ -1,0 +1,34 @@
+Role based access control
+Life cycle manager LCM Provisioning
+IIQ Custom Reports
+Quicklinks
+Access Control - SPRight and Capability
+Lifecycle of Certification
+Forms
+Auditing
+Self-Registration
+Workflow
+Email Templates ######### Apache Velocity Script
+Policies
+Task Server and UI Server
+UI Branding
+SSO Rule
+RequestDefinition and Request Object????????
+Performance Management in Sailpoint
+IIQ Keystore
+Custom Connector
+Perform Maintenance
+Perform IdentityRequest Maintenance
+
+Connector - AD JDCB LDAP AIX SNOW
+
+
+
+installation
+
+database
+iiq console
+import init.xml
+import init-lcm.xml
+
+tomcat webapp folder - identityiq.war start
